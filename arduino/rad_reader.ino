@@ -7,7 +7,6 @@ int radVal = 0;
 void setup() {
   // initial setup
   Serial.begin(9600);
-  delay(500);
 }
 
 void loop() {
